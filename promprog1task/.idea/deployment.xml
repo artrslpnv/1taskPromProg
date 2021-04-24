@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Docker-Tpcc (8402b05f-0dc2-4b62-bffc-06e859ce3240)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/promprog1task" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
